@@ -1,7 +1,7 @@
 android {
 	productFlavors {
-		"nativescript-web-image-cache" {
-			dimension "nativescript-web-image-cache"
+		"nativescript-web-image-cache-with-fresco" {
+			dimension "nativescript-web-image-cache-with-fresco"
 		}
 	}
 }
