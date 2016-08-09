@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/VideoSpike/nativescript-web-image-cache.git"
+    "url": "https://github.com/leocaseiro/nativescript-web-image-cache.git"
   },
   "keywords": [
     "nativescript",
@@ -20,9 +20,9 @@
     "android"
   ],
   "author": "Batheja Sumeet",
-  "license": "MIT(https://github.com/VideoSpike/nativescript-web-image-cache/blob/master/LICENSE)",
+  "license": "MIT(https://github.com/leocaseiro/nativescript-web-image-cache/blob/master/LICENSE)",
   "bugs": {
-    "url": "https://github.com/VideoSpike/nativescript-web-image-cache/issues"
+    "url": "https://github.com/leocaseiro/nativescript-web-image-cache/issues"
   },
-  "homepage": "https://github.com/VideoSpike/nativescript-web-image-cache#readme"
+  "homepage": "https://github.com/leocaseiro/nativescript-web-image-cache#readme"
 }
